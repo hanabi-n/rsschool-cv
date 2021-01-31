@@ -40,14 +40,8 @@ aside{
     float: left;
 }
 
-aside > p {
-    margin: .5rem;
-    margin-left: -200px;
-    margin-top: -4px;
-}
-
 p {
-    font-family: 'Fira Sans', sans-serif;
+    margin-left: 40px;
 }
 
 /*main*/
@@ -59,7 +53,6 @@ section{
 	padding: 10px 20px;
 	width: 900px;
 	position: absolute;
-	background: ;
 }
 
 section > p{
@@ -69,8 +62,4 @@ section > p{
 .headers_section{
 	margin-bottom: -10px;
 	margin-top: -11px;
-}
-
-.code_example{
-	background: #F5F5F5;
 }
