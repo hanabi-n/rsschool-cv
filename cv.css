@@ -1,1 +1,64 @@
+.container{
+	width: 100%;
+	margin: 0 60px;
+	max-width: 1100px;
+}
 
+.cv_header{
+	border: 2px solid #231F1E;
+	text-align: center;
+	width: 200px;
+	background: #231F1E;
+	color: white;
+}
+
+/*aside*/
+
+ aside{
+
+  }
+
+.aside_main{
+	border: 2px solid grey;
+	width: 200px;
+}
+
+.aside_content{
+	margin-left: -30px;
+	font-size: 14px; 
+}
+
+/*main*/
+
+.section_content{
+	border: 2px solid grey;
+
+	vertical-align: top;
+}
+
+/*/////////test/////////*/
+
+aside{
+    width: 40%;
+    float: left;
+    color: ;
+}
+
+aside > p {
+    margin: .5rem;
+    margin-left: -200px;
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.xmp_content{
+	    margin-left: 10px;
+}
+
+xmp{
+	border: 2px solid grey;
+	margin-left: -200px;
+	margin-right: 100px;
+}
